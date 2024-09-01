@@ -1,0 +1,10 @@
+INSERT INTO celular (marca, modelo, almacenamiento, ram, precio) VALUES ('samsung','s10',128, 8, 1000000);
+INSERT INTO celular (marca, modelo, almacenamiento, ram, precio) VALUES ('samsung','s20',256, 12, 2000000);
+INSERT INTO celular (marca, modelo, almacenamiento, ram, precio) VALUES ('apple','iphone 11',128, 8, 1500000);
+INSERT INTO celular (marca, modelo, almacenamiento, ram, precio) VALUES ('apple','iphone 12',256, 12, 2500000);
+INSERT INTO celular (marca, modelo, almacenamiento, ram, precio) VALUES ('xiaomi','mi 10',128, 8, 800000);
+INSERT INTO celular (marca, modelo, almacenamiento, ram, precio) VALUES ('xiaomi','mi 11',256, 12, 1200000);
+INSERT INTO celular (marca, modelo, almacenamiento, ram, precio) VALUES ('huawei','p30',128, 8, 900000);
+INSERT INTO celular (marca, modelo, almacenamiento, ram, precio) VALUES ('huawei','p40',256, 12, 1300000);
+INSERT INTO celular (marca, modelo, almacenamiento, ram, precio) VALUES ('motorola','g8',64, 4, 500000);
+INSERT INTO celular (marca, modelo, almacenamiento, ram, precio) VALUES ('motorola','g9',128, 6, 700000);
