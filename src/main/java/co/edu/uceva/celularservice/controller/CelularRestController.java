@@ -8,6 +8,10 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+/**
+ * Esta clase es el controlador de la entidad Celular y se mapea con la url /api/v1/celular-service
+ */
+
 @RestController
 @RequestMapping("/api/v1/celular-service")
 public class CelularRestController {
@@ -18,7 +22,6 @@ public class CelularRestController {
 
     /**
      * Este metodo se encarga de retornar una lista de todos los celulares
-     *
      * @return retorna una lista de todos los celulares
      */
 

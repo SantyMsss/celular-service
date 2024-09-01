@@ -6,6 +6,13 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import lombok.Data;
 
+/**
+ * La clase Celular es una entidad que se mapea con la tabla celular en la base de datos.
+ * tiene id, marca, modelo, almacenamiento, ram y precio
+ */
+
+
+
 @Data
 @Entity
 public class Celular {

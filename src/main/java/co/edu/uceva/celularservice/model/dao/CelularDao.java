@@ -1,7 +1,6 @@
 package co.edu.uceva.celularservice.model.dao;
 
 import org.springframework.data.repository.CrudRepository;
-
 import co.edu.uceva.celularservice.model.entities.Celular;
 
 /**
